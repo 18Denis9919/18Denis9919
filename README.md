@@ -1,2 +1,2 @@
 # Hello!
-![intro](intro.gif)
+![intro](MAIN-INTRO.gif)
