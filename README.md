@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=SharafutdinovDenis&color=orange)
 ![intro](MAIN-INTRO.gif)
 ## 📖 About Me
 I'm a novice in Data Science with big interest in how data shapes our lives. I'm really curious to all fields where data has big impact. <br>
